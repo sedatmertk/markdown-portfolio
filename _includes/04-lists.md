@@ -1,7 +1,7 @@
 Replace this with a list of your favorite things.
 
--dhasjchjasc
--vhfısbdıswv
+- dhasjchjasc
+- vhfısbdıswv
 
-*vdfklsnsdv
-*dvjskjcvn
+* vdfklsnsdv
+* dvjskjcvn
